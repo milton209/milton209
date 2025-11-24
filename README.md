@@ -1,63 +1,52 @@
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
 <div align="center">
-
-<h1>👋 Olá! Eu sou Milton Neto</h1>
-
-[![Desenvolvedor Java](https://img.shields.io/badge/Desenvolvedor-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-![Entusiasta de Tecnologia](https://img.shields.io/badge/Entusiasta-Tecnologia-blue?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=milton209&color=blue&style=for-the-badge)
-
-<p>
-  Construindo soluções com paixão no mundo do desenvolvimento.<br/>
-  Focado em back-end Java com Spring e boas práticas de engenharia.<br/>
-  Aprendendo continuamente e compartilhando projetos.
-</p>
-
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
+###
 
-### 📊 Estatísticas do GitHub
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-<p align="center">
-  <a href="https://github.com/milton209">
-    <img alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=milton209&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
-  </a>
-  <a href="https://github.com/milton209">
-    <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" />
-  </a>
-  <a href="https://github.com/milton209">
-    <img alt="Streak" src="https://streak-stats.demolab.com?user=milton209&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+###
 
-> Caso alguma imagem não carregue, clique nela para abrir diretamente.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=milton209&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=milton209&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-### 🛠️ Tecnologias
+###
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/milton209/milton209/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/milton209/milton209/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/milton209/milton209/output/pacman-contribution-graph.svg">
+</picture>
 
-### 🤝 Conecte-se comigo
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/milton-neto-c-silva" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:miltonneto209@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-Obrigado por visitar meu perfil!
-
-
-
+###
