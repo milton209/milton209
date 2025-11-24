@@ -2,17 +2,14 @@
 
 <h1>👋 Olá! Eu sou Milton Neto</h1>
 
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Desenvolvedor-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" alt="Desenvolvedor Java" /></a>
-<img src="https://img.shields.io/badge/Entusiasta-Tecnologia-blue?style=for-the-badge" alt="Entusiasta Tecnologia" />
-<img src="https://komarev.com/ghpvc/?username=milton209&color=blue&style=for-the-badge" alt="Visualizações de perfil" />
+[![Desenvolvedor Java](https://img.shields.io/badge/Desenvolvedor-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+![Entusiasta de Tecnologia](https://img.shields.io/badge/Entusiasta-Tecnologia-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=milton209&color=blue&style=for-the-badge)
 
 <p>
-  Construindo soluções com paixão no mundo do desenvolvimento.
-  <br/>
-  Focado em back-end Java com Spring e boas práticas de engenharia.
-  <br/>
+  Construindo soluções com paixão no mundo do desenvolvimento.<br/>
+  Focado em back-end Java com Spring e boas práticas de engenharia.<br/>
   Aprendendo continuamente e compartilhando projetos.
-  
 </p>
 
 </div>
@@ -21,9 +18,19 @@
 
 ### 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=milton209&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton209&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-<img src="https://streak-stats.demolab.com?user=milton209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p align="center">
+  <a href="https://github.com/milton209">
+    <img alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=milton209&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/milton209">
+    <img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=21600" />
+  </a>
+  <a href="https://github.com/milton209">
+    <img alt="Streak" src="https://streak-stats.demolab.com?user=milton209&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> Caso alguma imagem não carregue, clique nela para abrir diretamente.
 
 ### 🛠️ Tecnologias
 
@@ -51,4 +58,6 @@
 ---
 
 Obrigado por visitar meu perfil!
+
+
 
