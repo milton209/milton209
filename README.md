@@ -8,7 +8,7 @@
 
 <p>
   Construindo soluções com paixão no mundo do desenvolvimento.<br/>
-  Focado em back-end Java com Spring e boas práticas de engenharia.<br/>
+  Focado em back-end Java com Spring Boot e boas práticas de engenharia.<br/>
   Aprendendo continuamente e compartilhando projetos.
 </p>
 
@@ -19,24 +19,29 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
+  <a href="https://github.com/milton209"><img alt="Streak" src="https://streak-stats.demolab.com?user=milton209&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/milton209"><img alt="Estatísticas" src="https://github-readme-stats.vercel.app/api?username=milton209&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=43200" /></a>
   <a href="https://github.com/milton209"><img alt="Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milton209&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=43200" /></a>
-  <a href="https://github.com/milton209"><img alt="Streak" src="https://streak-stats.demolab.com?user=milton209&theme=tokyonight&hide_border=true" /></a>
-  
+</p>
+
+### 🕹️ Pacman das Contribuições
+
+<p align="center">
+  <img alt="Contribuições" src="https://raw.githubusercontent.com/milton209/site_faculdade/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" />
+  <img height="32" src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring AI" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" />
 </p>
 
 ### 🤝 Conecte-se comigo
