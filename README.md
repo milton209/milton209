@@ -20,7 +20,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=milton209)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
