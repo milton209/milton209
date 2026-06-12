@@ -24,7 +24,7 @@ Welcome to my GitHub! I am a passionate developer focused on building scalable s
 
 ## 📈 Featured Projects
 
-* 🏢 **LicyPilot (AI-Powered Analysis Engine):** A microservices architecture (Java + Python) utilizing generative AI (Ollama) and OCR for data extraction from bidding documents. Features optimized multithreading processing and structured logging.
+* 🏢 **LicyPilot (AI-Powered Analysis Engine):** A microservices architecture (Java + Python) utilizing generative AI (Ollama / githubModels) and OCR for data extraction from bidding documents. Features optimized multithreading processing and structured logging.
 * 🧠 **Spring-AI-API:** A full-stack content generation platform integrating a React frontend with a Spring Boot API, offering multimodal features like automated image and text generation.
 
 ## 📫 How to reach me
